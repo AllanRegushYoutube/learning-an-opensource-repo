@@ -20,7 +20,7 @@ def main():
   """
   Main Function
   """
-  v = input("Enter a number: ")
+  v = int(input("Enter a number: "))
   assert type(v) is int
   print(a(v))
 
