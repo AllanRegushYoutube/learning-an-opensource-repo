@@ -6,6 +6,15 @@ def a(j):
   """
   return j
 
+def m(w):
+  """
+  Multiplies a character by itself 3 times
+  >>> m("h")
+  hhh
+  """
+  t = 3
+  a = w * t
+  return a
 
 def main():
   """
