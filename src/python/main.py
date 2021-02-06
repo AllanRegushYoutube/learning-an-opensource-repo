@@ -6,6 +6,13 @@ def a(j):
   """
   return j
 
+def s(j, k)
+  """
+  Subtract two values
+  """
+  d = j - k
+  return d
+
 def m(w):
   """
   Multiplies a character by itself 3 times
@@ -23,8 +30,5 @@ def main():
   v = int(input("Enter a number: "))
   assert type(v) is int
   print(a(v))
-
-
-
 
 main()
