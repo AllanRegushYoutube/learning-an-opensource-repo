@@ -6,7 +6,7 @@ def a(j):
   """
   return j
 
-def s(j, k)
+def s(j, k):
   """
   Subtract two values
   """
